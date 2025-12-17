@@ -1,5 +1,5 @@
 # 🎬 Entertainment App
-
+> <span style="color:red"><strong>Note:</strong> Due to regional network restrictions, access to the TMDB API may be limited in certain locations. In such cases, using a VPN or an alternate network may be required to successfully fetch movie and TV series data during application usage.</span>
 A full-stack **Entertainment Application** that allows users to explore trending **Movies & TV Series**, search content in real time, and bookmark their favorite titles. The app provides a secure authentication system and a personalized bookmarking experience.
 
 🔗 **Live Demo:**  
